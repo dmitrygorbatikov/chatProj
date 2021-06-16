@@ -1,0 +1,34 @@
+body{
+
+}
+
+.auth_form{
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 15%;
+}
+.settings:hover{
+    background-color: #d1d1d1;
+    transition: .3s linear;
+    cursor: pointer;
+}
+.logout:hover{
+    background-color: #e67575;
+    transition: .3s linear;
+    cursor: pointer;
+}
+.userSearchButton:hover{
+    background-color: #d1d1d1;
+    transition: .3s linear;
+    cursor: pointer;
+}
+.closeChatBtn:hover{
+    color: red;
+    transition: .3s linear;
+    cursor: pointer;
+}
+.chatItem:hover{
+    background-color: #cdd9f7;
+    transition: .3s linear;
+    cursor: pointer;
+}

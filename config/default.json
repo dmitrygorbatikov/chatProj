@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://Dimas:qweqweasdasd@cluster0.cfdy4.mongodb.net/chatfairfly?retryWrites=true&w=majority",
+  "jwtSecret": "Z18SPXQtELHh"
+}
